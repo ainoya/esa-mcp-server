@@ -41,7 +41,5 @@ pnpm dev
 
 1. MCP Server Implementation
    - Server implementation compliant with Anthropic's MCP protocol
-2. Hono Framework Setup
-   - Web application framework configuration
-3. Tool Definition and Implementation
+2. Tool Definition and Implementation
    - Implementation of tools utilizing esa.io API
