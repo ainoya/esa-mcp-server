@@ -16,10 +16,9 @@ esa.ioのMCPサーバー実装
 
 - パッケージマネージャー: pnpm
 - 主要なパッケージ:
-  - hono
-  - @hono/node-server
   - typescript
   - @types/node
+  - @modelcontextprotocol/sdk
 
 ## タスク
 
