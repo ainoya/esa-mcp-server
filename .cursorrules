@@ -13,8 +13,6 @@ esa.ioのMCPサーバー実装
 ## 依存関係
 - パッケージマネージャー: pnpm
 - 主要なパッケージ:
-  - hono
-  - @hono/node-server
   - typescript
   - @types/node
 
